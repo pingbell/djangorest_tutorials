@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d38fec1d-680e-4af5-9e0b-ed6387258878" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/djproject/media/bg_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/polls/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/polls/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/polls/templates/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DjangoProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DjangoProject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djproject/djproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/djproject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djproject/djproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/djproject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djproject/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/polls/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djproject/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/polls/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -27,10 +37,25 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/djproject/djproject" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Learn-Git\djangorest_tutorials\DjangoProject\djproject\djproject" />
+      <recent name="E:\Learn-Git\djangorest_tutorials\DjangoProject\djproject\polls" />
+      <recent name="E:\Learn-Git\djangorest_tutorials\DjangoProject\djproject\media" />
+      <recent name="E:\Learn-Git\djangorest_tutorials\DjangoProject\djproject\polls\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Learn-Git\djangorest_tutorials\DjangoProject\djproject\polls" />
+      <recent name="E:\Learn-Git\djangorest_tutorials\DjangoProject\djproject" />
+      <recent name="E:\Learn-Git\djangorest_tutorials\DjangoProject\djproject\djproject" />
+      <recent name="E:\Learn-Git\djangorest_tutorials\DjangoProject\djproject\templates" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -46,17 +71,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="548" y="157" key="FileChooserDialogImpl" timestamp="1584464792829">
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584623858647">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="548" y="157" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584464792829" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584623858647" />
+    <state x="548" y="157" key="FileChooserDialogImpl" timestamp="1584526491757">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="157" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584526491757" />
     <state x="279" y="58" key="SettingsEditor" timestamp="1584499160730">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584499160730" />
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1584498036204">
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1584612936472">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584498036204" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584612936472" />
   </component>
 </project>

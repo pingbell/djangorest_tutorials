@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d38fec1d-680e-4af5-9e0b-ed6387258878" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/djproject/polls/templates/polls/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djproject/polls/templates/polls/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djproject/polls/templates/polls/results.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djproject/templates/admin/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djproject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/djproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/djproject/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/djproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/djproject/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/media/bg_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/polls/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/polls/media/bg_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/polls/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/polls/templates/base.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/polls/templates/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/polls/templates/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djproject/polls/templates/polls/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/polls/templates/polls/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djproject/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/polls/templates/polls/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djproject/polls/templates/polls/results.html" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/polls/templates/polls/results.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djproject/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/polls/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djproject/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/polls/views.py" afterDir="false" />
     </list>

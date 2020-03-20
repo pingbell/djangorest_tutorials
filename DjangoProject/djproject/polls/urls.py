@@ -2,12 +2,10 @@ from django.urls import path
 
 from . import views
 
-
+app_name = 'polls'
 urlpatterns = [
-    path('default', views.default_method, name='default_method'),
-    path('index', views.index, name='index'),
-    path('base', views.base, name='base'),
-    path('home', views.home, name='home'),
-    path('list', views.list, name='list'),
-
+    path('', views.IndexView.as_view(), name='index'),
+    path('<int:pk>/', views.DetailView.as_view(), name='detail'),
+    path('<int:pk>/results/', views.ResultsView.as_view(), name='results'),
+    path('<int:question_id>/vote/', views.vote, name='vote'),
 ]

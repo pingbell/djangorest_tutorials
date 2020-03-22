@@ -19,13 +19,15 @@ from django.urls import path, include
 urlpatterns = [
 
     path('admin/', admin.site.urls),
-    path('polls/',  include('polls.urls'))
+    path('polls/',  include('polls.urls')),
+    path('lawncare/', include('lawncare.urls')),
 ]
 
 #Add URL maps to redirect the base URL to our application
 from django.views.generic import RedirectView
 urlpatterns += [
     path('', RedirectView.as_view(url='polls/', permanent=True)),
+
 ]
 
 from django.conf import settings

@@ -2,13 +2,193 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d38fec1d-680e-4af5-9e0b-ed6387258878" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/djproject/lawncare/templates/display.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/css/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/css/bootstrap-datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/css/bootstrap/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/css/bootstrap/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/css/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/css/css/mixins/_text-hide.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/css/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/css/icomoon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/css/ionicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/css/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/fonts/flaticon/backup.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/fonts/flaticon/font/Flaticon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/fonts/flaticon/font/Flaticon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/fonts/flaticon/font/Flaticon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/fonts/flaticon/font/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/fonts/flaticon/font/Flaticon.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/fonts/flaticon/font/_flaticon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/fonts/flaticon/font/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/fonts/flaticon/font/flaticon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/fonts/flaticon/license/license.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/fonts/icomoon/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/fonts/icomoon/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/fonts/icomoon/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/fonts/icomoon/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/fonts/ionicons/css/_ionicons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/fonts/ionicons/css/ionicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/fonts/ionicons/fonts/ionicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/fonts/ionicons/fonts/ionicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/fonts/ionicons/fonts/ionicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/fonts/ionicons/fonts/ionicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/fonts/ionicons/fonts/ionicons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/bg_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/bg_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/gallery-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/gallery-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/gallery-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/gallery-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/gallery-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/gallery-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/gallery-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/gallery-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/gallery-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/image_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/image_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/image_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/image_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/image_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/image_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/loc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/person_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/person_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/person_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/person_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/person_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/person_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/person_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/person_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/practice-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/seasoanl-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/seasonal-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/seasonal-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/seasonal-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/seasonal-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/images/seasonal-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/js/google-map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/js/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/js/jquery-migrate-3.0.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/js/jquery.easing.1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/js/jquery.stellar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/js/jquery.waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/js/scrollax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/prepros-6.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_button-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_custom-forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_jumbotron.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_root.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_spinners.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_toasts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/bootstrap-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/bootstrap-reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_background-variant.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_box-shadow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_caret.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_grid-framework.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_hover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_nav-divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_table-row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_text-emphasis.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_text-hide.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_text-truncate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/mixins/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/utilities/_align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/utilities/_background.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/utilities/_borders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/utilities/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/utilities/_display.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/utilities/_embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/utilities/_flex.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/utilities/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/utilities/_overflow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/utilities/_position.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/utilities/_screenreaders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/utilities/_shadows.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/utilities/_sizing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/utilities/_spacing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/utilities/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/bootstrap/utilities/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djproject/static/lawncare/scss/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/polls/templates/polls/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/polls/templates/polls/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djproject/djproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/djproject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djproject/djproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/djproject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djproject/polls/static/polls/images/background.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/djproject/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/polls/templates/polls/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/polls/templates/polls/results.html" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/polls/templates/polls/results.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djproject/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/polls/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djproject/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/polls/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djproject/quickstart/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/lawncare/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djproject/quickstart/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djproject/quickstart/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djproject/quickstart/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/polls/templates/polls/display.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djproject/quickstart/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djproject/quickstart/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djproject/quickstart/views.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +198,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -37,23 +217,23 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/djproject/polls/templates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/djproject/lawncare/templates" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Learn-Git\djangorest_tutorials\DjangoProject\djproject\polls\templates" />
-      <recent name="E:\Learn-Git\djangorest_tutorials\DjangoProject\djproject\polls" />
-      <recent name="E:\Learn-Git\djangorest_tutorials\DjangoProject\djproject\static\polls" />
-      <recent name="E:\Learn-Git\djangorest_tutorials\DjangoProject\djproject\static" />
-      <recent name="E:\Learn-Git\djangorest_tutorials\DjangoProject\djproject\static\lawncare" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Learn-Git\djangorest_tutorials\DjangoProject\djproject\polls\templates\polls" />
       <recent name="E:\Learn-Git\djangorest_tutorials\DjangoProject\djproject\polls" />
       <recent name="E:\Learn-Git\djangorest_tutorials\DjangoProject\djproject" />
       <recent name="E:\Learn-Git\djangorest_tutorials\DjangoProject\djproject\djproject" />
       <recent name="E:\Learn-Git\djangorest_tutorials\DjangoProject\djproject\templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Learn-Git\djangorest_tutorials\DjangoProject\djproject\lawncare\templates" />
+      <recent name="E:\Learn-Git\djangorest_tutorials\DjangoProject\djproject\static\lawncare" />
+      <recent name="E:\Learn-Git\djangorest_tutorials\DjangoProject\djproject\polls\templates" />
+      <recent name="E:\Learn-Git\djangorest_tutorials\DjangoProject\djproject\polls" />
+      <recent name="E:\Learn-Git\djangorest_tutorials\DjangoProject\djproject\static\polls" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -86,9 +266,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584499160730" />
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1584680578496">
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1584842578769">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584680578496" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584842578769" />
   </component>
 </project>

@@ -7,6 +7,8 @@ from django.template import loader
 from .models import Choice, Questions
 from django.shortcuts import get_object_or_404, render
 
+def display (request) :
+    return render(request,'polls/display.html')
 
 def results(request, question_id):
     question = get_object_or_404(Questions, pk=question_id)

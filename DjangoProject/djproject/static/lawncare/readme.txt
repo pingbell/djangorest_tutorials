@@ -2,7 +2,7 @@ This is a website developed using django .
 
 Template was downloded and modified : 
 
-Deatils of templates :
+Details of templates :
 
 For more awesome templates please visit https://colorlib.com/wp/templates/
 

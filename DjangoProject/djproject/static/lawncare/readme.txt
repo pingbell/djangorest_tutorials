@@ -1,4 +1,8 @@
-Thank you for using our template!
+This is a website developed using django .
+
+Template was downloded and modified : 
+
+Deatils of templates :
 
 For more awesome templates please visit https://colorlib.com/wp/templates/
 
